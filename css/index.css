@@ -33,7 +33,7 @@ align-items: center;
 .menu {
 	display: flex;
 	margin-left: auto;
-	margin-right: 250px;
+	margin-right: 300px;
 	font-weight: bolder;
 }
 .menu li {
@@ -48,7 +48,7 @@ align-items: center;
 	color: black;
 }
 .logo {
-	margin-left: 250px;
+	margin-left: 300px;
     height: 30px;
     width: auto;
 }
@@ -83,4 +83,61 @@ margin-top: 50px;
 .offer1 p {
 	font-size: 10px;
 	text-align: center;
+}
+.main {
+	display: flex;
+	margin-top: 50px;
+}
+.main div {
+	
+}
+.box2 {
+	
+}
+.main img {
+	width: 100px;
+	height: 100px;
+}
+.box1 {
+	margin-left: 300px;
+}
+.box2 {
+	margin-left: 30px;
+	padding: 0;
+}
+.box3 {
+	margin-right: 1px;
+	margin-left: auto;
+}
+.box4 {
+	margin-left: auto;
+	margin-right: 350px;
+}
+.main1 {
+	display: flex;
+}
+.main1 div {
+	
+}
+.box2 {
+	
+}
+.main1 img {
+	width: 100px;
+	height: 100px;
+}
+.box5 {
+	margin-left: 300px;
+}
+.box6 {
+	margin-left: 30px;
+	padding: 0;
+}
+.box7 {
+	margin-right: 1px;
+	margin-left: auto;
+}
+.box8 {
+	margin-left: auto;
+	margin-right: 350px;
 }
