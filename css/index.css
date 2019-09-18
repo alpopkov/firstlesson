@@ -16,7 +16,9 @@ ul, li{
 	padding: 0;
 	margin: 0;
 }
-
+.main{
+	background: linear-gradient(white)
+}
 .header{
 
 }
@@ -47,20 +49,22 @@ align-items: center;
 .menu a{
 	color: black;
 }
+
+
 .logo {
 	margin-left: 300px;
     height: 30px;
     width: auto;
 }
-.offer {
-	margin-top: 200px;
+.article1 {
+	margin-top: 0px;
 }
-.offer h1 {
+.article1 h1 {
 	font-size: 35px;
 	font-weight: 900;
 	text-align: center;
 }
-.offer p {
+.article1 p {
 	font-size: 10px;
 	text-align: center;
 }
@@ -72,29 +76,29 @@ display: block;
 margin: 0 auto;
 margin-top: 50px;
 }
-.offer1 {
+.article2 {
 	margin-top: 100px;
 }
-.offer1 h1 {
+.article2 h1 {
 	font-size: 35px;
 	font-weight: 900;
 	text-align: center;
 }
-.offer1 p {
+.article2 p {
 	font-size: 10px;
 	text-align: center;
 }
-.main {
+.section1 {
 	display: flex;
 	margin-top: 50px;
 }
-.main div {
+.section1 div {
 	
 }
 .box2 {
 	
 }
-.main img {
+.section1 img {
 	width: 100px;
 	height: 100px;
 }
@@ -113,16 +117,16 @@ margin-top: 50px;
 	margin-left: auto;
 	margin-right: 350px;
 }
-.main1 {
+.section2 {
 	display: flex;
 }
-.main1 div {
+.section2 div {
 	
 }
 .box2 {
 	
 }
-.main1 img {
+.section2 img {
 	width: 100px;
 	height: 100px;
 }
